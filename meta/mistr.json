@@ -1,0 +1,9 @@
+{
+  "name": "MiSTr",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/mistr.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/mistr.svg",
+  "description": "MiSTr: Mixed effects Score Test .",
+  "filename": "meta/mistr.json"
+}
