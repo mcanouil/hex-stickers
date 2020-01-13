@@ -1,4 +1,4 @@
-# hex-stickers <img src="SVG/RStudio.svg" width="120" align="right" />
+# hex-stickers
 
 All hex logos as either [PNG](PNG/#readme) or [SVG](SVG/#readme).
 
