@@ -1,8 +1,0 @@
-Package: hexstickers
-Title: hex-stickers
-Encoding: UTF-8
-Version: 1.0.0
-License: CC0
-Imports: 
-    glue,
-    rmarkdown
