@@ -1,9 +1,0 @@
-{
-  "name": "EndoC-βH1",
-  "author": "Mickaël Canouil",
-  "license": "CC0",
-  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/endocbetah1.png",
-  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/endocbetah1.svg",
-  "description": "EndoC-βH1: EndoC-βH1 Anlysis Shiny application.",
-  "filename": "meta/endocbetah1.json"
-}
