@@ -1,0 +1,23 @@
+---
+output: github_document
+---
+
+```{r, results = "asis", echo = FALSE}
+library(gifski)
+ratio <- 3 # 2210/120
+gif_hex <- gifski(
+  png_files = list.files("PNG", pattern = "png$", full.names = TRUE), 
+  gif_file = "hex-stickers.gif", 
+  delay = 1, 
+  width = 2210 / ratio,
+  height = 2557 / ratio,
+  loop = TRUE, 
+  progress = FALSE
+)
+```
+
+# hex-stickers <img src="hex-stickers.gif" align="right" width="120" height="138.84" />
+
+All hex logos as either [PNG](PNG/#readme) or [SVG](SVG/#readme).
+
+All stickers are under with [CC0](LICENSE.md).
