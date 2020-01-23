@@ -1,0 +1,9 @@
+{
+  "name": "omicsr",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/omicsr.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/omicsr.svg",
+  "description": "omicsr: collection of R packages to work with omics data",
+  "filename": "meta/omicsr.json"
+}
