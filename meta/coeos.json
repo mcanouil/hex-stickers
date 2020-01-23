@@ -1,0 +1,9 @@
+{
+  "name": "coeos",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/coeos.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/coeos.svg",
+  "description": "Coeos Docker Image",
+  "filename": "meta/coes.json"
+}
