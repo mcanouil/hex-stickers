@@ -15,9 +15,9 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="165.92258"
    height="191.9993"
-   inkscape:export-filename="D:\Profils\mcanouil\Downloads\nacho_hex.png"
-   inkscape:export-xdpi="104.50038"
-   inkscape:export-ydpi="104.50038">
+   inkscape:export-filename="D:\Profils\mcanouil\Downloads\nacho.png"
+   inkscape:export-xdpi="1278.5"
+   inkscape:export-ydpi="1278.5">
   <metadata
      id="metadata60">
     <rdf:RDF>
@@ -44,8 +44,8 @@
      id="namedview58"
      showgrid="false"
      inkscape:zoom="2.3177389"
-     inkscape:cx="31.155785"
-     inkscape:cy="72.677707"
+     inkscape:cx="227.00491"
+     inkscape:cy="62.182376"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -61,7 +61,7 @@
        x2="127.36"
        y2="75.470001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3333435,0,0,1.3333333,-14.800097,-6.466666)">
+       gradientTransform="matrix(1.3333435,0,0,1.3333333,-14.801657,-5.6765802)">
       <stop
          offset="0"
          stop-color="#bc1921"
@@ -89,7 +89,7 @@
        y1="143.72"
        x2="30.4"
        y2="143.72"
-       gradientTransform="matrix(1.252933,0.45602684,-0.45603033,1.2529235,185.2681,-82.2)"
+       gradientTransform="matrix(1.252933,0.45602684,-0.45603033,1.2529235,185.26654,-81.409914)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -122,7 +122,7 @@
        y1="236.53999"
        x2="-35.970001"
        y2="236.53999"
-       gradientTransform="matrix(1.0214004,0.85705013,-0.85705668,1.0213926,380.68292,-77.82667)"
+       gradientTransform="matrix(1.0214004,0.85705013,-0.85705668,1.0213926,380.68136,-77.036584)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
@@ -224,9 +224,9 @@
        inkscape:transform-center-y="-8.0689624e-06"
        inkscape:export-filename="D:\Profils\mcanouil\Downloads\nacho.png" />
     <path
-       transform="matrix(3.48372,0,0,3.4911457,-228.68437,-269.90453)"
-       inkscape:transform-center-y="0.96153821"
-       inkscape:transform-center-x="0.83093683"
+       transform="matrix(3.4707596,0,0,3.478207,-227.52612,-268.5471)"
+       inkscape:transform-center-y="0.95797073"
+       inkscape:transform-center-x="0.82784649"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.16493505"
        d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
        inkscape:randomized="0"
@@ -253,19 +253,19 @@
      transform="translate(0.31102198,-0.36061282)">
     <path
        class="cls-3"
-       d="M 61.66715,33.413333 C 57.307117,38.68 17.480148,135.41333 23.973531,148.25333 c 6.493382,12.84 131.694329,10.96 131.040999,-15.46666 C 154.36119,106.36 71.160556,21.973333 61.66715,33.413333 Z"
+       d="M 61.66559,34.203419 C 57.305557,39.470086 17.478588,136.20341 23.971971,149.04341 c 6.493382,12.84 131.694329,10.96 131.040999,-15.46666 C 154.35963,107.15008 71.158996,22.763419 61.66559,34.203419 Z"
        id="path45"
        style="opacity:0.8;fill:url(#Naamloos_verloop_23);stroke-width:1.33333838;filter:url(#filter1095)"
        inkscape:connector-curvature="0" />
     <path
        class="cls-4"
-       d="M 99.10743,24.306667 C 92.854054,28.013333 15.653467,107.57333 16.44014,121.49333 17.226813,135.41333 135.73438,169.26667 145.97446,144.2 156.21453,119.13333 112.74754,16.2 99.10743,24.306667 Z"
+       d="m 99.10587,25.096753 c -6.253376,3.706666 -83.453963,83.266657 -82.66729,97.186657 0.786673,13.92 119.29424,47.77334 129.53432,22.70667 C 156.21297,119.92341 112.74598,16.990086 99.10587,25.096753 Z"
        id="path47"
        style="opacity:0.8;fill:url(#Naamloos_verloop_2);stroke-width:1.33333838;filter:url(#filter1099)"
        inkscape:connector-curvature="0" />
     <path
        class="cls-5"
-       d="M 124.48096,33.053333 C 117.0809,34.746667 11.866772,87.546667 6.8800674,100.85333 1.8933629,114.16 99.30744,179.68 119.21425,159.09333 139.12107,138.50667 140.60108,29.36 124.48096,33.053333 Z"
+       d="M 124.4794,33.843419 C 117.07934,35.536753 11.865212,88.336753 6.8785074,101.64341 1.8918029,114.95008 99.30588,180.47008 119.21269,159.88341 139.11951,139.29675 140.59952,30.150086 124.4794,33.843419 Z"
        id="path49"
        style="opacity:0.7;fill:url(#linear-gradient);stroke-width:1.33333838;filter:url(#filter1103)"
        inkscape:connector-curvature="0" />
@@ -277,23 +277,23 @@
       <path
          d="m 51.70037,75.28354 h -2.227933 v 17.526404 h 1.782346 V 77.734266 h 0.04951 l 10.198981,15.075678 h 2.227933 V 75.28354 H 61.94886 v 14.927149 h -0.04951 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
-         id="path1361" />
+         id="path864" />
       <path
          d="m 70.617668,88.20555 h 9.06026 l 1.930875,4.604394 h 1.980384 L 76.063725,75.28354 h -1.732836 l -7.574971,17.526404 h 1.955629 z m 4.53013,-10.941626 3.86175,9.307808 h -7.723501 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
-         id="path1363" />
+         id="path866" />
       <path
          d="m 99.535132,89.096723 c -1.212985,1.807101 -3.14386,2.599255 -5.149,2.599255 -4.505375,0 -7.277913,-3.564693 -7.277913,-7.649236 0,-4.084543 2.747783,-7.649236 7.277913,-7.649236 2.227933,0 3.985524,1.163476 4.728169,2.302197 l 1.485289,-1.089211 c -1.212987,-1.708082 -3.663713,-2.772539 -6.238213,-2.772539 -5.223264,0 -9.134524,3.886505 -9.134524,9.208789 0,5.322284 3.836995,9.208789 9.134524,9.208789 3.143861,0 5.396549,-1.510044 6.560023,-3.267635 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
-         id="path1365" />
+         id="path868" />
       <path
          d="m 104.46674,92.809944 h 1.78234 v -8.292861 h 9.55536 v 8.292861 h 1.78235 V 75.28354 h -1.78235 v 7.599726 h -9.55536 V 75.28354 h -1.78234 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
-         id="path1367" />
+         id="path870" />
       <path
          d="m 140.04596,84.046742 c 0,-5.322284 -3.91126,-9.208789 -9.13453,-9.208789 -5.22326,0 -9.13452,3.886505 -9.13452,9.208789 0,5.322284 3.91126,9.208789 9.13452,9.208789 5.22327,0 9.13453,-3.886505 9.13453,-9.208789 z m -1.88137,0 c 0,4.084543 -2.74778,7.624481 -7.25316,7.624481 -4.50537,0 -7.25316,-3.539938 -7.25316,-7.624481 0,-4.084543 2.74779,-7.649236 7.25316,-7.649236 4.50538,0 7.25316,3.564693 7.25316,7.649236 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
-         id="path1369" />
+         id="path872" />
     </g>
   </g>
   <path

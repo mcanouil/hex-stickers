@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="1149.11"
-   inkscape:export-xdpi="1149.11"
-   inkscape:export-filename="D:\Profils\mcanouil\Downloads\mistr.png"
+   inkscape:export-ydpi="104.72"
+   inkscape:export-xdpi="104.72"
+   inkscape:export-filename="D:\Profils\mcanouil\Downloads\mistr_small.png"
    sodipodi:docname="mistr_ink.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg8"
@@ -2104,10 +2104,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="89.429669"
-     inkscape:cy="108.11341"
+     inkscape:cx="102.72714"
+     inkscape:cy="87.435826"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-global="true"
      showguides="false"
@@ -2140,7 +2140,7 @@
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;opacity:1;"
+     style="display:inline;opacity:1"
      transform="translate(0,-246.20002)">
     <path
        sodipodi:type="star"
@@ -2159,7 +2159,7 @@
        style="fill:#162d50;fill-opacity:1;stroke-width:0.16493505"
        inkscape:transform-center-x="4.3097664e-06"
        inkscape:transform-center-y="-3.0197514e-06"
-       transform="matrix(0.99786129,0,0,1,-67.227313,166.68751)"
+       transform="matrix(0.99786129,0,0,1,-67.407349,166.89584)"
        inkscape:export-xdpi="1278.5"
        inkscape:export-ydpi="1278.5"
        inkscape:export-filename="D:\Profils\mcanouil\Downloads\path3733.png" />
@@ -2180,9 +2180,9 @@
        inkscape:randomized="0"
        d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
        style="display:inline;opacity:1;fill:#0b1728;fill-opacity:1;stroke-width:0.16493505"
-       inkscape:transform-center-x="0.83407059"
-       inkscape:transform-center-y="0.96516926"
-       transform="matrix(0.92518243,0,0,0.92716538,-60.732116,174.32877)" />
+       inkscape:transform-center-x="0.82787062"
+       inkscape:transform-center-y="0.9579985"
+       transform="matrix(0.91830515,0,0,0.92027336,-60.297541,175.26017)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2190,9 +2190,9 @@
      inkscape:label="Background 1"
      style="display:inline;opacity:1;filter:url(#filter12369)">
     <path
-       transform="matrix(0.92518243,0,0,0.92716538,-60.732117,-71.87125)"
-       inkscape:transform-center-y="0.96516926"
-       inkscape:transform-center-x="0.83407059"
+       transform="matrix(0.91836193,0,0,0.92033026,-60.302616,-70.945826)"
+       inkscape:transform-center-y="0.958054"
+       inkscape:transform-center-x="0.82792118"
        style="display:inline;opacity:1;fill:#0b1728;fill-opacity:1;stroke-width:0.16493505;filter:url(#filter12095)"
        d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
        inkscape:randomized="0"
@@ -2216,7 +2216,7 @@
      inkscape:label="Title"
      style="display:inline;opacity:1">
     <a
-       transform="translate(0.27131785,4.2579391)"
+       transform="translate(0.09128166,4.4662741)"
        style="display:inline;opacity:1;fill:#d7e3f4"
        id="a19097">
       <text

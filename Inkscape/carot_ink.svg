@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="carot_ink.svg"
-   inkscape:export-filename="D:\Profils\mcanouil\Downloads\carot.png"
-   inkscape:export-xdpi="1278.5"
-   inkscape:export-ydpi="1278.5">
+   inkscape:export-filename="D:\Profils\mcanouil\Downloads\carot_small.png"
+   inkscape:export-xdpi="104.72438"
+   inkscape:export-ydpi="104.72438">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="-5.4018683"
+     inkscape:cx="-69.925363"
      inkscape:cy="80.374581"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -94,9 +94,9 @@
      style="display:inline"
      transform="translate(0,-246.20002)">
     <path
-       transform="matrix(0.92518242,0,0,0.92716537,-60.732115,174.32877)"
-       inkscape:transform-center-y="0.96516912"
-       inkscape:transform-center-x="0.83407049"
+       transform="matrix(0.91830515,0,0,0.92027336,-60.117504,175.22688)"
+       inkscape:transform-center-y="0.95798968"
+       inkscape:transform-center-x="0.82787086"
        style="fill:#ffb85d;fill-opacity:1;stroke-width:0.16493505"
        d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
        inkscape:randomized="0"
