@@ -14,13 +14,22 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown", "gifski", "glue"))'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
+      - name: Commit README
+        run: |
+          git add -f README.md
+          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
       - name: Render README PNG
         run: Rscript -e 'rmarkdown::render("PNG/README.Rmd")'
+      - name: Commit README PNG
+        run: |
+          git add -f PNG/README.md
+          git commit PNG/README.md -m 'Re-build PNG/README.Rmd' || echo "No changes to commit"
       - name: Render README SVG
         run: Rscript -e 'rmarkdown::render("SVG/README.Rmd")'
-      - name: Commit results
+      - name: Commit README SVG
         run: |
-          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git commit PNG/README.md -m 'Re-build PNG/README.Rmd' || echo "No changes to commit"
+          git add -f SVG/README.md
           git commit SVG/README.md -m 'Re-build SVG/README.Rmd' || echo "No changes to commit"
+      - name: Push results
+        run: |
           git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
