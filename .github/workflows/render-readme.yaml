@@ -8,15 +8,11 @@ name: Render README
 jobs:
   render:
     name: Render README
-    runs-on: debian-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
-      - name: install cargo
-        runs: |
-          apt-get update
-          apt-get install -y --no-install-recommends cargo
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown", "gifski", "glue"))'
       - name: Render README
