@@ -20,6 +20,7 @@ jobs:
       - name: Commit README
         run: |
           git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
+          git commit hex-stickers.gif -m 'Re-build README.Rmd' || echo "No changes to commit"
       - name: Render README PNG
         run: Rscript -e 'rmarkdown::render("PNG/README.Rmd")'
       - name: Commit README PNG
