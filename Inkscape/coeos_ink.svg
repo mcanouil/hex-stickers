@@ -87,9 +87,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7547702"
-     inkscape:cx="119.88165"
-     inkscape:cy="67.441795"
+     inkscape:zoom="1.3773851"
+     inkscape:cx="137.0604"
+     inkscape:cy="31.279957"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -98,9 +98,9 @@
      inkscape:snap-bbox="true"
      inkscape:snap-center="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="cm">
     <inkscape:grid
@@ -253,14 +253,14 @@
      style="">
     <text
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        x="4.4544277"
        y="29.980598"
        id="text829"><tspan
          sodipodi:role="line"
          x="4.4544277"
          y="29.980598"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          id="tspan838">coeos</tspan></text>
   </g>
 </svg>
