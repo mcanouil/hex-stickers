@@ -1,0 +1,9 @@
+{
+  "name": "rlille",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/rlille.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/rlille.svg",
+  "description": "Lille R User Group",
+  "filename": "meta/rlille.json"
+}
