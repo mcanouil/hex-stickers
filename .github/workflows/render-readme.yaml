@@ -23,8 +23,8 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown", "gifski", "glue"), dependencies = TRUE)'
       - name: Render READMEs
         run: |
-          rmarkdown::render("README.Rmd")
-          rmarkdown::render("PNG/README.Rmd")
+          rmarkdown::render("README.Rmd", output = "github_document")
+          rmarkdown::render("PNG/README.Rmd", output = "github_document")
         shell: Rscript {0}
       - name: Push results
         run: |
@@ -33,4 +33,4 @@ jobs:
           git commit PNG/README.md -m 'Re-build PNG/README.Rmd' || echo "No changes to commit"
           git config --global user.name "${{secrets.NAME}}"
           git config --global user.email ${{secrets.EMAIL}}
-          git push || echo "No changes to commit"
+          git push origin master || echo "No changes to commit"
