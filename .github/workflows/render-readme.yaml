@@ -10,11 +10,11 @@ jobs:
     name: Render README
     runs-on: macOS-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: r-lib/actions/setup-r@v1
-      - uses: r-lib/actions/setup-pandoc@v1
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@master
+      - uses: r-lib/actions/setup-pandoc@master
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown", "gifski", "glue"))'
+        run: Rscript -e 'install.packages(c("rmarkdown", "gifski", "glue"), dependencies = TRUE)'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit README
@@ -28,4 +28,4 @@ jobs:
           git commit PNG/README.md -m 'Re-build PNG/README.Rmd' || echo "No changes to commit"
       - name: Push results
         run: |
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
+          git push || echo "No changes to commit"
