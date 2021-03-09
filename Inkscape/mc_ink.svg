@@ -17,9 +17,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="mc_ink.svg"
-   inkscape:export-filename="D:\Profils\mcanouil\Downloads\coeos_small.png"
-   inkscape:export-xdpi="104.5"
-   inkscape:export-ydpi="104.5"
+   inkscape:export-filename="D:\Profils\mcanouil\PROJECTS\hex-stickers\PNG\mc.png"
+   inkscape:export-xdpi="1278.6801"
+   inkscape:export-ydpi="1278.6801"
    enable-background="new">
   <defs
      id="defs2">
@@ -88,8 +88,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3773851"
-     inkscape:cx="4.5629597"
-     inkscape:cy="31.279957"
+     inkscape:cx="313.97358"
+     inkscape:cy="130.90815"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -99,7 +99,7 @@
      inkscape:snap-center="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="cm">
@@ -238,7 +238,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Calque 4"
-     style="display:inline;">
+     style="display:inline">
     <path
        style="display:inline;fill:#4d4d4d;stroke-width:0.04679604"
        id="path2445"
@@ -250,17 +250,35 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Calque 5"
-     style="opacity:1">
+     style="display:inline;opacity:1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';letter-spacing:0px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       x="2.2757494"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';letter-spacing:1.32291663px;word-spacing:0px;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.9;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
+       x="20.234343"
        y="31.212564"
        id="text829"><tspan
          sodipodi:role="line"
-         x="2.2757494"
+         x="20.895802"
          y="31.212564"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;text-align:center;letter-spacing:1.32291663px;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
          id="tspan838">MC</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Calque 6"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';letter-spacing:1.984375px;word-spacing:0px;display:inline;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="21.150738"
+       y="31.242882"
+       id="text829-5"><tspan
+         sodipodi:role="line"
+         x="22.142925"
+         y="31.242882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;text-align:center;letter-spacing:1.984375px;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="tspan838-7"
+         dx="0">mc</tspan></text>
   </g>
 </svg>
