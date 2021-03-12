@@ -87,9 +87,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.8958334"
-     inkscape:cx="100.77675"
-     inkscape:cy="77.998897"
+     inkscape:zoom="0.68869255"
+     inkscape:cx="-222.32417"
+     inkscape:cy="159.24314"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -98,9 +98,9 @@
      inkscape:snap-bbox="true"
      inkscape:snap-center="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="cm">
     <inkscape:grid
@@ -253,15 +253,15 @@
      style="display:inline;opacity:1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
-       x="20.34157"
-       y="30.849279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="21.141546"
+       y="31.848778"
        id="text829"><tspan
          sodipodi:role="line"
-         x="21.003027"
-         y="30.849279"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;text-align:center;letter-spacing:1.32291663px;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
-         id="tspan838">MC</tspan></text>
+         x="21.141546"
+         y="31.848778"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="tspan838">mc</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

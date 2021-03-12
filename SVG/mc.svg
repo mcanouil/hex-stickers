@@ -133,16 +133,19 @@
   <g
      style="display:inline;opacity:1"
      id="layer5">
-    <text
+    <g
        id="text829"
-       y="30.849279"
-       x="20.34157"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
-       xml:space="preserve"><tspan
-         id="tspan838"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:0;font-family:Vivaldi;-inkscape-font-specification:Vivaldi;text-align:center;letter-spacing:1.32291663px;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:#333333;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
-         y="30.849279"
-         x="21.003027">MC</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       aria-label="mc">
+      <path
+         id="path842"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 23.163266,17.965209 q 0.869597,0.209902 1.409347,0.899583 0.53975,0.68968 0.509764,1.679222 l -0.02999,0.389819 -1.259417,7.796389 -0.269875,3.08857 -1.559277,0.14993 1.709208,-10.585097 0.02999,-0.419805 q 0.02999,-0.569737 -0.209903,-0.959556 -0.239889,-0.419806 -0.599722,-0.419806 -0.839611,0 -2.638778,2.428875 -1.76918,2.428875 -3.958166,6.746875 l -0.269875,3.058584 -1.529292,0.14993 1.709208,-10.585097 0.02999,-0.419805 q 0,-0.599723 -0.239888,-0.989542 -0.239889,-0.38982 -0.599723,-0.38982 -0.809625,0 -2.548819,2.368903 -1.739194,2.368903 -3.9281805,6.626931 v 0.02999 l -0.1799167,3.208514 -1.5592777,0.14993 1.5292916,-10.914944 0.1499306,-2.818694 1.4993057,-0.149931 -1.019528,7.436555 h 0.2099028 q 1.7391942,-2.998611 3.0585832,-4.767791 1.349375,-1.799167 2.728736,-2.788708 h 0.329847 q 0.899584,0.209902 1.439334,0.899583 0.53975,0.68968 0.509764,1.679222 l -0.02999,0.389819 -0.749652,4.587875 h 0.209902 q 1.679223,-2.938638 3.028598,-4.737805 1.379361,-1.829153 2.758722,-2.818694 z" />
+      <path
+         id="path844"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 36.539415,18.654889 0.179916,0.269875 -0.419805,1.0795 -0.299861,0.08996 q -1.049514,-0.869597 -1.979083,-0.869597 -2.159,0.02999 -3.418417,2.159 -1.229431,2.129014 -1.229431,5.78732 0,1.919111 0.479778,2.758722 0.479778,0.809625 1.499306,0.809625 0.839611,0 1.709208,-0.659695 0.899583,-0.68968 1.709208,-2.188986 h 0.239889 l 0.509764,0.689681 q -0.929569,1.61925 -1.919111,2.398889 -0.989542,0.749652 -2.308931,1.049513 h -0.329847 q -0.989541,-0.14993 -1.61925,-0.569736 -0.629708,-0.449791 -0.989541,-1.409347 -0.329848,-0.989542 -0.329848,-2.69875 0,-4.138083 1.679223,-6.716889 1.709208,-2.578805 5.037666,-2.578805 z" />
+    </g>
   </g>
   <g
      style="display:none"
