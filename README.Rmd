@@ -20,7 +20,7 @@ gif_hex <- gifski(
 
 ```{r, echo = FALSE, message = FALSE}
 library(magick)
-logos <- tools::file_path_sans_ext(dir("PNG", pattern = "\\.png$"))
+logos <- sub("\\.png$", "", dir("PNG", pattern = "\\.png$"))
 png <- paste0("PNG/", logos, ".png")
 svg <- paste0("SVG/", logos, ".svg")
 thumb <- paste0("thumbs/", logos, ".png")
@@ -51,6 +51,5 @@ cat("<table>\n")
 cat(paste0("<tr>", sapply(row_cells, paste, collapse = ""), "</tr>"), sep = "")
 cat("</table>\n")
 ```
-
 
 All stickers are under with [CC0](LICENSE.md).
