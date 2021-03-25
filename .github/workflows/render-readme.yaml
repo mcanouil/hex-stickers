@@ -24,7 +24,6 @@ jobs:
       - name: Render READMEs
         run: |
           rmarkdown::render("README.Rmd", output_format = "github_document")
-          rmarkdown::render("PNG/README.Rmd", output_format = "github_document")
         shell: Rscript {0}
       - name: Push results
         run: |
