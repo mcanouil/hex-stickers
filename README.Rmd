@@ -39,7 +39,7 @@ invisible(Map(resize, png[outdated], thumb[outdated]))
 img <- glue::glue('<img alt="Logo for {logos}" src="{thumb}" width="120" height="139">')
 png_link <- glue::glue('<a href="{png}">{logos}.png</a>')
 svg_link <- glue::glue('<a href="{svg}">{logos}.svg</a>')
-cell <- paste0("<td>", img, "<br />", png_link, "<br />", svg_link, "</td>")
+cell <- paste0('<td align = "center">', img, "<br />", png_link, "<br />", svg_link, "</td>")
 
 cols <- 5
 rows <- ceiling(length(cell) / cols)
