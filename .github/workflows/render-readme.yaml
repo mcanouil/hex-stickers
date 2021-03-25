@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 
 name: Render README
 
@@ -30,7 +30,6 @@ jobs:
         run: |
           git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
           git commit hex-stickers.gif -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git commit PNG/README.md -m 'Re-build PNG/README.Rmd' || echo "No changes to commit"
           git config --global user.name "${{github.actor}}"
           git config --global user.email ${{secrets.EMAIL}}
-          git push origin master || echo "No changes to commit"
+          git push origin main || echo "No changes to commit"
