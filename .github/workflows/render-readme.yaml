@@ -27,9 +27,9 @@ jobs:
         shell: Rscript {0}
       - name: Push results
         run: |
+          git add thumbd/*
           git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
           git commit hex-stickers.gif -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git -C thumbs add --all
           git config --global user.name "${{github.actor}}"
           git config --global user.email ${{secrets.EMAIL}}
           git push origin main || echo "No changes to commit"
