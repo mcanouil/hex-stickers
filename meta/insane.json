@@ -2,8 +2,8 @@
   "name": "insane",
   "author": "Mickaël Canouil",
   "license": "CC0",
-  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/insane.png",
-  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/insane.svg",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/insane.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/insane.svg",
   "description": "insane: INsulin Secretion ANalysEr",
   "filename": "meta/insane.json"
 }

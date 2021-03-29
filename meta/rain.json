@@ -2,8 +2,8 @@
   "name": "rain",
   "author": "Mickaël Canouil",
   "license": "CC0",
-  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/rain.png",
-  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/rain.svg",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/rain.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/rain.svg",
   "description": "rain: Reference-based Ancestry INference",
   "filename": "meta/rain.json"
 }

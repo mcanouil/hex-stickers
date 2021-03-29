@@ -2,8 +2,8 @@
   "name": "coeos",
   "author": "Mickaël Canouil",
   "license": "CC0",
-  "raster": "https://github.com/mcanouil/hex-stickers/blob/master/PNG/coeos.png",
-  "vector": "https://github.com/mcanouil/hex-stickers/blob/master/SVG/coeos.svg",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/coeos.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/coeos.svg",
   "description": "Mickaël Canouil Personal Logo",
   "filename": "meta/coeos.json"
 }
