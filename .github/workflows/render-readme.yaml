@@ -28,6 +28,7 @@ jobs:
       - name: Push results
         run: |
           git add thumbs/*
+          git commit -m 'new thumbs'
           git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
           git commit hex-stickers.gif -m 'Re-build README.Rmd' || echo "No changes to commit"
           git config --global user.name "${{github.actor}}"
