@@ -19,6 +19,12 @@
 
 <td align="center">
 
+<img alt="Logo for globalr" src="thumbs/globalr.png" width="120" height="139"><br /><a href="PNG/globalr.png">globalr.png</a><br /><a href="SVG/globalr.svg">globalr.svg</a>
+
+</td>
+
+<td align="center">
+
 <img alt="Logo for insane" src="thumbs/insane.png" width="120" height="139"><br /><a href="PNG/insane.png">insane.png</a><br /><a href="SVG/insane.svg">insane.svg</a>
 
 </td>
@@ -29,15 +35,15 @@
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center">
 
 <img alt="Logo for mistr" src="thumbs/mistr.png" width="120" height="139"><br /><a href="PNG/mistr.png">mistr.png</a><br /><a href="SVG/mistr.svg">mistr.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
