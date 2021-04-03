@@ -87,9 +87,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.97395834"
-     inkscape:cx="-59.482042"
-     inkscape:cy="139.88217"
+     inkscape:zoom="3.4307639"
+     inkscape:cx="121.14353"
+     inkscape:cy="102.93794"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -165,17 +165,16 @@
      inkscape:label="Calque 3"
      style="display:inline">
     <text
-       transform="translate(0,9.2000001)"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611259px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#7d7d7d;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new"
-       x="29.721045"
-       y="27.77825"
-       id="text829-0"><tspan
-         sodipodi:role="line"
-         x="29.721043"
-         y="27.77825"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611259px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#7d7d7d;fill-opacity:1;stroke:#7d7d7d;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="tspan838-4">mc</tspan></text>
+       id="text843"
+       y="36.977943"
+       x="29.720713"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#323232;fill-opacity:1;stroke:#323232;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new;"
+       xml:space="preserve"><tspan
+         id="tspan841"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#323232;fill-opacity:1;stroke:#323232;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;"
+         y="36.977943"
+         x="29.720713"
+         sodipodi:role="line">mc</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,14 +184,14 @@
     <text
        transform="translate(0,9.2000001)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.98611069px;line-height:1.25;font-family:'Blackadder ITC';-inkscape-font-specification:'Blackadder ITC';text-align:center;letter-spacing:1.32291663px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#4d4d4d;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers;enable-background:new"
        x="29.191545"
        y="27.248775"
        id="text829"><tspan
          sodipodi:role="line"
          x="29.191545"
          y="27.248775"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#4d4d4d;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:29.98611069px;line-height:0;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans Light Italic';text-align:center;letter-spacing:0px;text-anchor:middle;opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#4d4d4d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:25.79999924;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          id="tspan838">mc</tspan></text>
   </g>
 </svg>
