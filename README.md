@@ -41,6 +41,12 @@
 
 <td align="center">
 
+<img alt="Logo for mcsb" src="thumbs/mcsb.png" width="120" height="139"><br /><a href="PNG/mcsb.png">mcsb.png</a><br /><a href="SVG/mcsb.svg">mcsb.svg</a>
+
+</td>
+
+<td align="center">
+
 <img alt="Logo for mistr" src="thumbs/mistr.png" width="120" height="139"><br /><a href="PNG/mistr.png">mistr.png</a><br /><a href="SVG/mistr.svg">mistr.svg</a>
 
 </td>
@@ -62,6 +68,10 @@
 <img alt="Logo for rlille" src="thumbs/rlille.png" width="120" height="139"><br /><a href="PNG/rlille.png">rlille.png</a><br /><a href="SVG/rlille.svg">rlille.svg</a>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center">
 
