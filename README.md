@@ -75,6 +75,12 @@
 
 <td align="center">
 
+<img alt="Logo for rocketchatr" src="thumbs/rocketchatr.png" width="120" height="139"><br /><a href="PNG/rocketchatr.png">rocketchatr.png</a><br /><a href="SVG/rocketchatr.svg">rocketchatr.svg</a>
+
+</td>
+
+<td align="center">
+
 <img alt="Logo for umr1283_8199" src="thumbs/umr1283_8199.png" width="120" height="139"><br /><a href="PNG/umr1283_8199.png">umr1283\_8199.png</a><br /><a href="SVG/umr1283_8199.svg">umr1283\_8199.svg</a>
 
 </td>
