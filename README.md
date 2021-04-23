@@ -19,6 +19,12 @@
 
 <td align="center">
 
+<img alt="Logo for ggpacman" src="thumbs/ggpacman.png" width="120" height="139"><br /><a href="PNG/ggpacman.png">ggpacman.png</a><br /><a href="SVG/ggpacman.svg">ggpacman.svg</a>
+
+</td>
+
+<td align="center">
+
 <img alt="Logo for globalr" src="thumbs/globalr.png" width="120" height="139"><br /><a href="PNG/globalr.png">globalr.png</a><br /><a href="SVG/globalr.svg">globalr.svg</a>
 
 </td>
@@ -29,15 +35,15 @@
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center">
 
 <img alt="Logo for mc" src="thumbs/mc.png" width="120" height="139"><br /><a href="PNG/mc.png">mc.png</a><br /><a href="SVG/mc.svg">mc.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
@@ -63,15 +69,15 @@
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center">
 
 <img alt="Logo for rlille" src="thumbs/rlille.png" width="120" height="139"><br /><a href="PNG/rlille.png">rlille.png</a><br /><a href="SVG/rlille.svg">rlille.svg</a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
