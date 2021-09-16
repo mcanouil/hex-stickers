@@ -1,0 +1,9 @@
+{
+  "name": "ggpacman",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/ggpacman.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/ggpacman.svg",
+  "description": "ggpacman: A 'ggplot2' and 'gganimate' Version of Pac-Man",
+  "filename": "meta/ggpacman.json"
+}

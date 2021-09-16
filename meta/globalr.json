@@ -1,0 +1,9 @@
+{
+  "name": "globalr",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/mc.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/mc.svg",
+  "description": "Global R Meetup Logo",
+  "filename": "meta/globalr.json"
+}

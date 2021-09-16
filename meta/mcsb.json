@@ -1,0 +1,9 @@
+{
+  "name": "mcsb",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/mcsb.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/mcsb.svg",
+  "description": "Mickaël Canouil Personal Logo",
+  "filename": "meta/mcsb.json"
+}

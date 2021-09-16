@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Laag_1"
+   data-name="Laag 1"
+   viewBox="0 0 165.92257 191.99929"
+   version="1.1"
+   sodipodi:docname="nacho_ink.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="165.92258"
+   height="191.9993"
+   inkscape:export-filename="D:\Profils\mcanouil\PROJECTS\hex-stickers\PNG\nacho.png"
+   inkscape:export-xdpi="1278.5046"
+   inkscape:export-ydpi="1278.5046">
+  <metadata
+     id="metadata60">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview58"
+     showgrid="false"
+     inkscape:zoom="2.3177389"
+     inkscape:cx="148.26438"
+     inkscape:cy="62.182376"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs37">
+    <style
+       id="style2">.cls-1{fill:#fff;}.cls-2,.cls-6{fill:#132032;}.cls-3,.cls-4{opacity:0.8;}.cls-3{fill:url(#Naamloos_verloop_23);}.cls-4{fill:url(#Naamloos_verloop_2);}.cls-5{opacity:0.7;fill:url(#linear-gradient);}.cls-6{font-size:24px;font-family:AvenirNextCondensed-Regular, Avenir Next Condensed;letter-spacing:0em;}.cls-7{letter-spacing:-0.01em;}</style>
+    <linearGradient
+       id="Naamloos_verloop_23"
+       x1="28.540001"
+       y1="75.470001"
+       x2="127.36"
+       y2="75.470001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3333435,0,0,1.3333333,-14.801657,-5.6765802)">
+      <stop
+         offset="0"
+         stop-color="#bc1921"
+         id="stop4" />
+      <stop
+         offset="0.2"
+         stop-color="#b91720"
+         id="stop6" />
+      <stop
+         offset="0.36"
+         stop-color="#ae131b"
+         id="stop8" />
+      <stop
+         offset="0.52"
+         stop-color="#9d0b14"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="#9b0a13"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="Naamloos_verloop_2"
+       x1="-67.059998"
+       y1="143.72"
+       x2="30.4"
+       y2="143.72"
+       gradientTransform="matrix(1.252933,0.45602684,-0.45603033,1.2529235,185.26654,-81.409914)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f2b400"
+         id="stop15" />
+      <stop
+         offset="0.2"
+         stop-color="#eda000"
+         id="stop17" />
+      <stop
+         offset="0.45"
+         stop-color="#e58300"
+         id="stop19" />
+      <stop
+         offset="0.63"
+         stop-color="#df6809"
+         id="stop21" />
+      <stop
+         offset="0.87"
+         stop-color="#d84a13"
+         id="stop23" />
+      <stop
+         offset="1"
+         stop-color="#d63f17"
+         id="stop25" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient"
+       x1="-128.87"
+       y1="236.53999"
+       x2="-35.970001"
+       y2="236.53999"
+       gradientTransform="matrix(1.0214004,0.85705013,-0.85705668,1.0213926,380.68136,-77.036584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#f0e61c"
+         id="stop28" />
+      <stop
+         offset="0.27"
+         stop-color="#dcde2f"
+         id="stop30" />
+      <stop
+         offset="0.81"
+         stop-color="#a9cb60"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#96c472"
+         id="stop34" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter1095">
+      <feColorMatrix
+         values="1 0 0 0.1 -0 0 1 0 0.1 -0 0 0 1 0.1 -0 0 0 0 1 0"
+         id="feColorMatrix1093"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1349" />
+      <feColorMatrix
+         id="feColorMatrix1351"
+         values="1 0 0 -0.025 1.38778e-19 0 1 0 -0.025 1.38778e-19 0 0 1 -0.025 1.38778e-19 0 0 0 1 0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter1099">
+      <feColorMatrix
+         values="1 0 0 0.1 -0 0 1 0 0.1 -0 0 0 1 0.1 -0 0 0 0 1 0"
+         id="feColorMatrix1097"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1353" />
+      <feColorMatrix
+         id="feColorMatrix1355"
+         values="1 0 0 -0.025 1.38778e-19 0 1 0 -0.025 1.38778e-19 0 0 1 -0.025 1.38778e-19 0 0 0 1 0"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter1103">
+      <feColorMatrix
+         values="1 0 0 0.1 -0 0 1 0 0.1 -0 0 0 1 0.1 -0 0 0 0 1 0"
+         id="feColorMatrix1101"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1357" />
+      <feColorMatrix
+         id="feColorMatrix1359"
+         values="1 0 0 -0.025 1.38778e-19 0 1 0 -0.025 1.38778e-19 0 0 1 -0.025 1.38778e-19 0 0 0 1 0"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(0.31102198,-0.36061282)">
+    <path
+       sodipodi:type="star"
+       id="path3733"
+       sodipodi:sides="6"
+       sodipodi:cx="89.368446"
+       sodipodi:cy="104.91249"
+       sodipodi:r1="25.4"
+       sodipodi:r2="21.997046"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
+       style="display:inline;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.16493505;stroke-opacity:1"
+       transform="matrix(3.7573878,0,0,3.7653971,-253.14164,-298.67693)"
+       inkscape:export-xdpi="308.00113"
+       inkscape:export-ydpi="308.00113"
+       inkscape:transform-center-x="3.069751e-06"
+       inkscape:transform-center-y="-8.0689624e-06"
+       inkscape:export-filename="D:\Profils\mcanouil\Downloads\nacho.png" />
+    <path
+       transform="matrix(3.4707596,0,0,3.478207,-227.52612,-268.5471)"
+       inkscape:transform-center-y="0.95797073"
+       inkscape:transform-center-x="0.82784649"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.16493505"
+       d="m 89.368447,130.31249 -21.997045,-12.7 -10e-7,-25.399998 21.997045,-12.700001 21.997044,12.699999 0,25.4 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.0943951"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="21.997046"
+       sodipodi:r1="25.4"
+       sodipodi:cy="104.91249"
+       sodipodi:cx="89.368446"
+       sodipodi:sides="6"
+       id="path3735"
+       sodipodi:type="star"
+       inkscape:export-xdpi="307.81"
+       inkscape:export-ydpi="307.81"
+       inkscape:export-filename="D:\Profils\mcanouil\Downloads\nacho.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(0.31102198,-0.36061282)">
+    <path
+       class="cls-3"
+       d="M 61.66559,34.203419 C 57.305557,39.470086 17.478588,136.20341 23.971971,149.04341 c 6.493382,12.84 131.694329,10.96 131.040999,-15.46666 C 154.35963,107.15008 71.158996,22.763419 61.66559,34.203419 Z"
+       id="path45"
+       style="opacity:0.8;fill:url(#Naamloos_verloop_23);stroke-width:1.33333838;filter:url(#filter1095)"
+       inkscape:connector-curvature="0" />
+    <path
+       class="cls-4"
+       d="m 99.10587,25.096753 c -6.253376,3.706666 -83.453963,83.266657 -82.66729,97.186657 0.786673,13.92 119.29424,47.77334 129.53432,22.70667 C 156.21297,119.92341 112.74598,16.990086 99.10587,25.096753 Z"
+       id="path47"
+       style="opacity:0.8;fill:url(#Naamloos_verloop_2);stroke-width:1.33333838;filter:url(#filter1099)"
+       inkscape:connector-curvature="0" />
+    <path
+       class="cls-5"
+       d="M 124.4794,33.843419 C 117.07934,35.536753 11.865212,88.336753 6.8785074,101.64341 1.8918029,114.95008 99.30588,180.47008 119.21269,159.88341 139.11951,139.29675 140.59952,30.150086 124.4794,33.843419 Z"
+       id="path49"
+       style="opacity:0.7;fill:url(#linear-gradient);stroke-width:1.33333838;filter:url(#filter1103)"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.36401749px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1"
+       x="47.145485"
+       y="92.809944"
+       id="text851"
+       transform="scale(0.87221371,1.146508)"><tspan
+         sodipodi:role="line"
+         id="tspan849"
+         x="47.145485"
+         y="92.809944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.75480843px;font-family:'Avenir Next LT Pro';-inkscape-font-specification:'Avenir Next LT Pro';letter-spacing:0.45833328px;fill:#132032;fill-opacity:1;stroke:#132032;stroke-width:0.88410026;stroke-opacity:1">NACHO</tspan></text>
+  </g>
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:0;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path3739"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:0;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4546"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:0;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4548"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#006f34;fill-opacity:0;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4550"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4552"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4554"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="M 44.090203,163.24147 5.2877239,140.74945 V 95.637634 50.525796 L 43.736653,28.29364 c 21.14691,-12.227685 38.69445,-22.3796023 38.99453,-22.5598173 0.41079,-0.246706 10.17269,5.2418523 39.509587,22.2139593 l 38.964,22.541623 v 45.146929 45.146916 l -38.8989,22.50694 c -21.39439,12.37882 -39.014617,22.49263 -39.156037,22.47513 -0.14143,-0.0175 -17.71826,-10.15324 -39.05963,-22.52385 z"
+     id="path4556"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="m 44.127333,163.21182 -38.8024891,-22.49908 0.005,-45.089876 0.005,-45.089885 38.7724991,-22.421178 c 21.32585,-12.331647 38.95562,-22.4211773 39.17825,-22.4211773 0.22264,0 17.851467,10.0895303 39.175167,22.4211773 l 38.77038,22.421178 0.005,45.090985 0.005,45.090976 -38.76481,22.43771 c -21.32063,12.34074 -38.940857,22.46483 -39.156037,22.49798 -0.21518,0.0332 -17.85236,-10.06431 -39.19372,-22.43881 z"
+     id="path4558"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="m 44.127333,163.21182 -38.8024891,-22.49908 0.005,-45.089876 0.005,-45.089885 38.7724991,-22.421178 c 21.32585,-12.331647 38.95562,-22.4211773 39.17825,-22.4211773 0.22264,0 17.851467,10.0895303 39.175167,22.4211773 l 38.77038,22.421178 0.005,45.090985 0.005,45.090976 -38.76481,22.43771 c -21.32063,12.34074 -38.940857,22.46483 -39.156037,22.49798 -0.21518,0.0332 -17.85236,-10.06431 -39.19372,-22.43881 z"
+     id="path4560"
+     inkscape:connector-curvature="0" />
+  <path
+     style="display:inline;opacity:0;fill:#001a34;fill-opacity:1;stroke-width:0.35355338"
+     d="m 44.127333,163.21182 -38.8024891,-22.49908 0.005,-45.089876 0.005,-45.089885 38.7724991,-22.421178 c 21.32585,-12.331647 38.95562,-22.4211773 39.17825,-22.4211773 0.22264,0 17.851467,10.0895303 39.175167,22.4211773 l 38.77038,22.421178 0.005,45.090985 0.005,45.090976 -38.76481,22.43771 c -21.32063,12.34074 -38.940857,22.46483 -39.156037,22.49798 -0.21518,0.0332 -17.85236,-10.06431 -39.19372,-22.43881 z"
+     id="path4562"
+     inkscape:connector-curvature="0" />
+</svg>

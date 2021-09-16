@@ -1,0 +1,9 @@
+{
+  "name": "CARoT",
+  "author": "Mickaël Canouil",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/carot.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/carot.svg",
+  "description": "CARoT: Centralised and Automated RepOrting Tools",
+  "filename": "meta/carot.json"
+}

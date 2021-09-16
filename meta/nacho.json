@@ -1,0 +1,9 @@
+{
+  "name": "NACHO",
+  "author": "Roderick Slieker",
+  "license": "CC0",
+  "raster": "https://github.com/mcanouil/hex-stickers/blob/main/PNG/nacho.png",
+  "vector": "https://github.com/mcanouil/hex-stickers/blob/main/SVG/nacho.svg",
+  "description": "NACHO: NAnostring quality Control dasHbOard",
+  "filename": "meta/nacho.json"
+}
