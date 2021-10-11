@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-![License](https://img.shields.io/github/license/mcanouil/hex-stickers)
+[![License](https://img.shields.io/github/license/mcanouil/hex-stickers)](LICENSE)
 <!-- badges: end -->
 
 <table>
