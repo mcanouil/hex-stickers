@@ -1,5 +1,12 @@
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # hex-stickers <img src="hex-stickers.gif" align="right" width="120" height="138.84" />
+
+<!-- badges: start -->
+
+![License](https://img.shields.io/github/license/mcanouil/hex-stickers)
+<!-- badges: end -->
 
 <table>
 
