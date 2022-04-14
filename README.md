@@ -58,5 +58,3 @@
 </td>
 </tr>
 </table>
-
-All stickers are under with [CC0](LICENSE.md).
