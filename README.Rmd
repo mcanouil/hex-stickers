@@ -7,7 +7,7 @@ output: github_document
 # hex-stickers <img src="hex-stickers.gif" align="right" width="120" height="138.84" />
 
 <!-- badges: start -->
-[![License](https://img.shields.io/github/license/mcanouil/hex-stickers)](LICENSE.md)
+[![License](https://img.shields.io/github/license/mcanouil/hex-stickers)](LICENSE)
 <!-- badges: end -->
 
 ```{r, echo = FALSE, message = FALSE}
