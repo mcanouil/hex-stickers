@@ -7,7 +7,7 @@ output: github_document
 # hex-stickers <img src="hex-stickers.gif" align="right" width="120" height="138.84" />
 
 <!-- badges: start -->
-[![License](https://img.shields.io/github/license/mcanouil/hex-stickers)](LICENSE)
+[![License](https://img.shields.io/github/license/mcanouil/hex-stickers)](LICENSE.md)
 <!-- badges: end -->
 
 ```{r, echo = FALSE, message = FALSE}
@@ -43,8 +43,6 @@ cat("<table>\n")
 cat(paste0("<tr>", sapply(row_cells, paste, collapse = ""), "</tr>"), sep = "")
 cat("</table>\n")
 ```
-
-All stickers are under with [CC0](LICENSE.md).
 
 ```{r, results = "asis", echo = FALSE}
 library(gifski)
